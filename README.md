@@ -1,6 +1,6 @@
 # Natours Project
 
-If you want to see the project just click to the link : https://jarabik8810.github.io/Natours/.
+If you want to see the project just click to the link : https://jarabik8810.github.io/NatoursProject/
 
 ---
 ## About Project:
